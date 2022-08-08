@@ -1,10 +1,6 @@
-*{
-Margin: 0;
-Padding: 0;
+.osplBack{
+    background-image: url(pics/building.jpg);
+    background-repeat: no-repeat;
+    width: c;
+    height: 500px;
 }
-
-.opslBack{
-Background-color: red;
-Color: white;
-}
-
