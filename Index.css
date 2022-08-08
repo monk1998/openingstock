@@ -1,5 +1,5 @@
 .osplBack{
-    background-image: url(pics/building.jpg);
+    background-image: url("pics/building.jpg");
     background-repeat: no-repeat;
     width: c;
     height: 500px;
